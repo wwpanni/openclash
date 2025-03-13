@@ -1,7 +1,7 @@
 
 自己后端地址Workers地址：
 
-https://dingyue.junjie123.top/
+https://dy.junjie123.top/
 
 
 自己远程配置地址：
