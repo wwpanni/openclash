@@ -1,5 +1,3 @@
-# openclash
-# clashzhuan
 
 自己后端地址Workers地址：
 
