@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,qichiyu.com
-
+DOMAIN-SUFFIX,greasyfork.org
 # 内容：Steam
 # 数量：1
 DOMAIN-SUFFIX,steamstatic.com
